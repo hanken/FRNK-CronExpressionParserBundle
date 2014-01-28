@@ -12,5 +12,8 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": { "FRNK\\CronExpressionParserBundle": "" }
+    },
     "target-dir": "FRNK/CronExpressionParserBundle"
 }
