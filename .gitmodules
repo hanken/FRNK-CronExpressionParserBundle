@@ -1,3 +1,0 @@
-[submodule "lib/cron-expression"]
-path = CronExpressionParserBundle/lib/cron-expression
-url = https://github.com/mtdowling/cron-expression
